@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Advanced%20Python&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=File%20Handling%20%7C%20Exceptions%20%7C%20OOP%20%28Coming%20Soon%29&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Advanced%20Python&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=File%20Handling%20%7C%20Exceptions%20%7C%20OOP%20&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=11998E&center=true&vCenter=true&width=600&lines=Going+Beyond+the+Basics+%F0%9F%9A%80;Mastering+File+Handling+in+Python+%F0%9F%93%81;Next+Up%3A+OOP+%26+More+%F0%9F%A7%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=11998E&center=true&vCenter=true&width=600&lines=Going+Beyond+the+Basics+%F0%9F%9A%80;Mastering+File+Handling+in+Python+%F0%9F%93%81;Next+Up%3A+OOP+%26++%F0%9F%A7%B1" alt="Typing SVG" />
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -32,24 +32,6 @@ This repository continues my Python learning journey beyond the basics — divin
 | 05 | ⚠️ **Exceptions & Error Handling** | `try` / `except` / `finally`, custom exceptions |
 
 ---
-
-## 🔜 Coming Soon
-
-<div align="center">
-
-![OOP](https://img.shields.io/badge/🧱_OOP-Coming%20Soon-lightgrey?style=for-the-badge)
-![More](https://img.shields.io/badge/✨_More%20Concepts-Coming%20Soon-lightgrey?style=for-the-badge)
-
-</div>
-
-- 🧱 Object-Oriented Programming (Classes, Objects, Inheritance, Polymorphism)
-- 🚀 More advanced Python concepts as I progress
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=3&width=100%"/>
-</div>
 
 ## 🚀 How I'm Practicing
 
@@ -81,7 +63,7 @@ Each notebook includes:
 | Working with CSV Files | ✅ Done |
 | Working with JSON Files | ✅ Done |
 | Exceptions & Error Handling | ✅ Done |
-| OOP (Classes & Objects) | 🔄 Coming Soon |
+| OOP (Classes & Objects) | ✅ Done |
 | More Advanced Concepts | 🔄 Coming Soon |
 
 ---
